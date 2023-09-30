@@ -16,18 +16,18 @@ const SpecialOffer = () => {
       </div>
       <div className='flex flex-1 flex-col'>
         <h2 className='text-4xl font-palanquin font-bold'>
-          <span className='text-coral-red'>Special </span>
-          Offer
+          Oferta
+          <span className='text-coral-red'> Especial</span>
         </h2>
         <p className='mt-4 info-text'>
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
+        Embárcate en un viaje de compras que redefine tu experiencia con
+          ofertas inmejorables. Desde selecciones de primer nivel hasta ahorros increíbles, nosotros
+          ofrecer un valor incomparable que nos diferencia.
         </p>
         <p className='mt-6 info-text'>
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+        Navegue por un reino de posibilidades diseñado para satisfacer sus
+          deseos, superando las expectativas más elevadas. Tu viaje con nosotros es
+          nada menos que excepcional.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
           <Button label='Shop now' iconURL={arrowRight} />
